@@ -3,7 +3,7 @@
 ## An App that's gonna make some monayyy.
 
 Stack:
-Node.JS, React.JS, MySQL
+Node.JS, Express, React.JS, MySQL, SASS
 
 Features:
 Secure Authentication - OAuth
