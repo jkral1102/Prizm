@@ -1,6 +1,6 @@
 # Prizm
 
-## An App that's gonna make some monayyy.
+## Jen and Steve's awesome Nose/React/SQL web app that's gonna make some monayyy.
 
 Stack:
 Node.JS, Express, React.JS, MySQL, SASS
