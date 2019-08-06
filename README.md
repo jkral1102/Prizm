@@ -2,7 +2,7 @@
 
 ## An App that's gonna make some monayyy.
 
-Technology Stack:
+Stack:
 Node.JS, React.JS, MySQL
 
 Features:
